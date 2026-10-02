@@ -2,6 +2,7 @@ preciso comprar:
 
 MAÇÃ
 ABACAXI
+UVAS
 GOIABA
 
 essa é minha lista de compras.
